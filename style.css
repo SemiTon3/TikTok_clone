@@ -176,4 +176,12 @@
     background-color: yellow;
     margin-top: 10vh;
     height: 50vh;
+}
+.imgtext{
+    position: absolute;
+    margin-top: -62px;
+    color: white;
+    font-family: "Barlow", sans-serif;
+    font-size: 13px;
+    margin-left: 50px;
   }
