@@ -33,7 +33,7 @@
     width: 120px;
     height: 33px;
     border: none;
-    font: 18px;
+    font-size: 18px;
     color: black;
     font-family: "barlow", sans-serif;
     font-weight: 500;
@@ -43,12 +43,12 @@
 }
 
 .loginbutton button{
-    width: 120px;
+    width: 100px;
     height: 35px;
     background-color: rgb(254, 44, 85);
     border: none;
     border-radius: 3px;
-    font: 18px;
+    font-size: 18px;
     color: white;
     font-family: "barlow", sans-serif;
     font-weight: 600;
@@ -84,6 +84,8 @@
 
 .mainbodycontainer{
     margin-top: 80px;
+    position: sticky;
+    width: 100%;
     background-color: orange;
 }
 
@@ -134,3 +136,9 @@
     background-color: green;
     margin-left: 5px;
 }
+.livebarcontent{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    margin-left: 5px;
+  }
