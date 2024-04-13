@@ -113,5 +113,9 @@
 .homebarcontent{
     display: flex;
     align-items: center;
-    background-color: ;
+    background-color: white;
+    margin-left: 5px;
+}
+.followbarcontent{
+    display: flex;
 }
