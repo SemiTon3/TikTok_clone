@@ -102,4 +102,5 @@
     display: grid;
     width: 80%;
     height: 55vh;
+    grid-template-rows: 10%;
 }
