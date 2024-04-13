@@ -129,5 +129,8 @@
     margin-left: 5px;
 }
 .explorebarcontent{
-    
+    display: flex;
+    align-items: center;
+    background-color: green;
+    margin-left: 5px;
 }
