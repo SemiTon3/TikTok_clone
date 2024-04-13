@@ -84,4 +84,10 @@
 
 .mainbodycontainer{
     margin-top: 80px;
+    background-color: orange;
+}
+
+.socialbarcontainer{
+    overflow: hidden auto;
+    top: 60px;
 }
