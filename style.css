@@ -118,4 +118,5 @@
 }
 .followbarcontent{
     display: flex;
+    align-items: center;
 }
