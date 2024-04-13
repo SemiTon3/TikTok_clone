@@ -17,3 +17,14 @@
     align-items: center;
     margin-left: -20px;
 }
+
+.searchcontainer{
+    margin: auto;
+    width: 470px;
+    height: 42px;
+    border-radius: 50px;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+}
