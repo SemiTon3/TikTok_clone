@@ -122,3 +122,7 @@
     background-color: yellow;
     margin-left: 5px;
 }
+.friendbarcontent{
+    display: flex;
+    align-items: center;
+}
