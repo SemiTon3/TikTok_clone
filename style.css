@@ -94,4 +94,10 @@
     width: 300px;
     background: green;
     position: fixed;
+    z-index: 99;
+    display: grid;
+    grid-template-rows: 40% 20% 40%;
+}
+.firstbar{
+    display: grid;
 }
