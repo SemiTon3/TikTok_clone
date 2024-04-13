@@ -93,4 +93,5 @@
     bottom: 50px;
     width: 300px;
     background: green;
+    position: fixed;
 }
